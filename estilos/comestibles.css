@@ -1,0 +1,73 @@
+#img1{
+    display: inline-block;
+    float: left;
+}
+.titulo1{
+    display:inline-block;
+    width: 80%;
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-family: cursive;
+    clear: both;
+}
+#img2{
+    display: inline-block;
+    float: right;
+   
+}
+.titulo{
+    color: green;
+    background-color: darkseagreen;
+    text-align: center;
+    font-family: cursive;
+    display: inline-block;
+}
+.subtitulo{
+    color: green;
+    background-color: darkseagreen;
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
+    margin: 2px;
+    clear: both;
+}
+.parrafo{
+    color: darkgreen;
+    background-color: darkseagreen;
+    text-align: center;
+    font-family: cursive;
+}
+.comestibles{
+    color: white;
+    background-color: palegreen;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+}
+.comidas{
+    color: green;
+    background-color:darkseagreen;
+    font-family: monospace;
+    margin: 2px;
+    text-align: center;
+}
+.textob{
+    color: white;
+    background: darkseagreen;
+    font-family: cursive;
+    text-align: center;
+}
+li{
+    color: white;
+    background-color: darkseagreen;
+    font-family: monospace;
+    border: double;
+    text-align: center;
+}
+p{
+    color: white;
+    background-color:forestgreen;
+    text-align: center;
+    font-family: monospace;
+}

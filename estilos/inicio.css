@@ -1,0 +1,21 @@
+#parrafo{
+    text-align: left;
+    color: green;
+    font-family: monospace;
+    font-size: 36px;
+}
+#texto{
+    text-align: left;
+    color: darkgreen; 
+}
+#video1{
+    display: flex;
+    
+}
+#video{
+    display: inline-block;
+    float: right;
+}
+body{
+    background-color: palegreen;
+}

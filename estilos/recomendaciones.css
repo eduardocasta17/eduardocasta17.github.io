@@ -1,0 +1,25 @@
+#titulo{
+    text-align: center;
+    background-color: darkseagreen;
+    color: white;
+    font-family: fantasy;
+}
+#texto{
+    text-align: center;
+    color: darkgreen;
+    background-color: darkseagreen;
+    color: black;
+    font-family: monospace;
+}
+#subtitulo{
+    text-align: center;
+    color: darkgreen;
+    background-color: whitesmoke;
+    font-family: fantasy;
+}
+#texto{
+    margin: double;
+    border: double;
+    
+    
+}

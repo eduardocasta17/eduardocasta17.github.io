@@ -1,0 +1,44 @@
+#logo1{
+    display:inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 57%;
+    text-align: center;
+    float: center;
+    color: darkgreen;
+    background-color: darkseagreen;
+}
+#logo2{
+    display: inline-block;
+    width: 15%;
+    float: right;
+}
+#barra{
+    clear: both;
+    text-align: center;
+    overflow: none;
+}
+.menu{
+    display: inline-block;
+    width: 20%;
+    background-color: darkseagreen;
+    font-size: 20px;
+    border: solid;
+    color: white;
+    font-family: monospace;
+}
+#marco{
+    width: 99%;
+    padding: 8px;
+    height: 400px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+    background-color: darkseagreen;
+    color: white;
+}
